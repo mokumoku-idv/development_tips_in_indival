@@ -1,0 +1,2 @@
+# development_tips_in_indival
+調べたことをまとめるページ
